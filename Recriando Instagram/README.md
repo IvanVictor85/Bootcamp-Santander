@@ -1,6 +1,6 @@
 # Olá, tudo bem?🙃
 
-Esse é o repositório da nossa aula de Flexbox, na qual fizemos a interface de login do Instagram! 
+Esse é o repositório do desafio de projeto, na qual fizemos a interface de login do Instagram!
 
 ### Os requisitos são:
 

@@ -7,12 +7,11 @@ Neste projeto, implementei as tarefas sugeridas pela professora @stebsnusch:
 
 Implementando os eventos:
 <br>
-![image]()
+![addEventListener](https://github.com/IvanVictor85/Bootcamp-Santander/blob/main/Contador/implementando%20addEventListener.PNG)
 
 2. Crie condicionais que desabilitam o botão de incrementar ou decrementar quando `count` chegar a um determinado valor *(ex.: 0 <= count =< 10)*.
 3. Mude a cor do texto em `CURRENT_NUMBER` para vermelho quando o número for negativo.
 
-<br>
-![Funções increment e decrement](https://github.com/IvanVictor85/Bootcamp-Santander/blob/main/Contador/Increment%20e%20decrement.PNG)
+![image](https://github.com/IvanVictor85/Bootcamp-Santander/blob/main/Contador/Increment%20e%20decrement.PNG)
 
 
